@@ -116,7 +116,7 @@ We can specify where in the DOM we insert an element with the .before() and .aft
 $('target').after('<tag>To add</tag>');
 ```
 
-Where 'target' is the element after which you want to add something and the bit between <tag>s is the HTML element you want to add. You can add <h1>s, <div>s, or any other valid HTML you like.
+Where 'target' is the element after which you want to add something and the bit between <tag>s is the HTML element you want to add. You can add h1s, divs, or any other valid HTML you like.
 
 Moving elements around in the DOM is a snap—all we need to do is use the jQuery functions we just learned on existing elements instead of creating new ones.
 
