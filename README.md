@@ -267,7 +267,7 @@ Your second function(){} doesn't have to be the opposite of the first function()
 
 Another event we can make use of is .focus(). We say an element has focus when we click on it or tab over to it. If you've ever filled out a form on a web page and seen how each text box lights up when you tab to it or click on it, you've seen focus in action!
 
-The .focus() event handler only works on elements that can receive focus—the list of these elements is a bit vague, but HTML elements like <textarea>s and <input>s are the usual suspects.
+The .focus() event handler only works on elements that can receive focus—the list of these elements is a bit vague, but HTML elements like textareas and <input>s are the usual suspects.
 
 ```js
 $(document).ready(function(){
