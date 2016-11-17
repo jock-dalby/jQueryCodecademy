@@ -343,7 +343,7 @@ jQuery UI includes a number of ultra-fancy animations you can use to make your w
 
 For instance,  jQuery UI has an .effect() effect, and we are totally going to give it the input 'explode'.
 
-Note that we've included an extra <script> tag in our HTML documents; this is used to include jQuery UI in our webpages. We don't have to do this with regular jQuery, since Codecademy automatically includes it for us.
+Note that we've included an extra script tag in our HTML documents; this is used to include jQuery UI in our webpages. We don't have to do this with regular jQuery, since Codecademy automatically includes it for us.
 
 ```js
 $(document).ready(function(){
